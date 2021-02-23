@@ -48,3 +48,10 @@ Each protocol with a tick is at least in a somewhat usable state
 - [ ] [mDNS](https://en.wikipedia.org/wiki/Multicast_DNS)
 - [ ] [NTP](https://en.wikipedia.org/wiki/Network_Time_Protocol)
 - [ ] [PTP](https://en.wikipedia.org/wiki/Precision_Time_Protocol)
+
+
+
+
+## Documents / Blogs / Further Reading
+
+- https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/
